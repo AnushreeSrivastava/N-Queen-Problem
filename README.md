@@ -12,6 +12,7 @@ X-axis : denotes the state space i.e states or configuration our algorithm may r
 Y-axis : denotes the values of objective function corresponding to to a particular state.
 The best solution will be that state space where objective function has maximum value(global maximum).
 
+![state space](Capture.JPG)
 
 Different regions in the State Space Diagram
 

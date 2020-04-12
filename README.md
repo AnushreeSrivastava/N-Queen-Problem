@@ -1,6 +1,8 @@
 # N-Queens Problem: 
 The N Queen is the problem of placing N chess queens on an N×N chessboard so that no two queens attack each other. The chess queens can attack in any direction as horizontal, vertical, horizontal and diagonal way. Below is the pictorial representation of placement of 8 queens on chessboard.
 
+![nqueen board](nQueen.jpg)
+
 ## Hill Climbing:
 Hill climbing is a mathematical optimization technique which belongs to the family of local search. It is an iterative algorithm that starts with an arbitrary solution to a problem, then attempts to find a better solution by making an incremental change to the solution. If the change produces a better solution, another incremental change is made to the new solution, and so on until no further improvements can be found.
 
